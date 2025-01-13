@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust, EVM**
 
-- 💬 Ask me about **Solidity, Smart Contract Auditing, React, Next.js, JavaScript, PHP, NodeJS, MySQL, Linux**
+- 💬 Ask me about **React, Next.js, JavaScript, Python, Django, NodeJS, MySQL, Linux, AWS, e-commerce**
 
 - 📫 How to reach me **lovezww2011@gmail.com**
 
