@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [SD-Tech](https://sd-tech.com)
 
-- 🌱 I’m currently learning **Solidity, blockchain**
+- 🌱 I’m currently learning **React, blockchain**
 
 - 💬 Ask me about **React, Next.js, JavaScript, Python, Django, NodeJS, MySQL, Linux, AWS, e-commerce**
 
