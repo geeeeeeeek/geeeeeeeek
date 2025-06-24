@@ -3,7 +3,7 @@
 
 <p align="left">  </p>
 
-- 🔭 I’m currently working on [SD-Tech](https://sd-tech.com)
+- 🔭 I’m currently working on Alibaba
 
 - 🌱 I’m currently learning **React, blockchain**
 
