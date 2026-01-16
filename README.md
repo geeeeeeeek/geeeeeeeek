@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on SD-Tech
 
-- 🌱 I’m currently learning **React, blockchain**
+- 🌱 I’m currently learning **Claude code, React, blockchain**
 
-- 💬 Ask me about **React, Next.js, JavaScript, Python, Django, NodeJS, MySQL, Linux, AWS, e-commerce**
+- 💬 Ask me about **Java, Springboot, JavaScript, Python, Django, NodeJS, MySQL, Linux, AWS, Google Cloud, Google SEO, AdSense**
 
 - 📫 How to reach me **lovezww2011@gmail.com**
 
