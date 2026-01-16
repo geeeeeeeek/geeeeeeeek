@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Claude code, React, blockchain**
 
-- 💬 Ask me about **Java, Springboot, JavaScript, Python, Django, NodeJS, MySQL, Linux, AWS, Google Cloud, Google SEO, AdSense**
+- 💬 Ask me about **Java, Springboot, JavaScript, Python, Django, MySQL, Linux, AWS, Google Cloud, Google SEO, AdSense**
 
 - 📫 How to reach me **lovezww2011@gmail.com**
 
